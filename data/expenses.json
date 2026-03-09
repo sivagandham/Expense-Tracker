@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-03-07",
+    "amount": 120.0,
+    "category": "Travel",
+    "description": "Uber Auto"
+  },
+  {
+    "date": "2026-03-07",
+    "amount": 350.0,
+    "category": "Food",
+    "description": "Restaurant"
+  },
+  {
+    "date": "2026-03-07",
+    "amount": 5055.55,
+    "category": "Rent",
+    "description": "House Rent"
+  },
+  {
+    "date": "2026-03-09",
+    "amount": 135.45,
+    "category": "Food",
+    "description": "Snacks"
+  },
+  {
+    "date": "2026-03-09",
+    "amount": 150.0,
+    "category": "Food",
+    "description": "Tiffin"
+  }
+]
