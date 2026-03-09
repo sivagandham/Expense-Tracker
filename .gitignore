@@ -8,3 +8,6 @@ __pycache__/
 
 # Mac system files
 .DS_Store
+
+# workspace files
+expense-tracker.code-workspace
