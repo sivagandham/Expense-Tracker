@@ -5,9 +5,7 @@ venv/
 # Python cache files
 __pycache__/
 *.pyc
+*.code-workspace
 
 # Mac system files
 .DS_Store
-
-# workspace files
-.code-workspace
